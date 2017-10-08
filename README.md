@@ -8,3 +8,8 @@ APLHABET = ARRAY('a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p'
 	WHILE CNTR < 500000 DO
 			INSERT INTO COMPANY SELECT 
 ```
+
+Database schema is shown on image below:
+![Image of schema](https://pawelwiejkut.net/pobierz/git_database_schemat.jpg)
+
+
