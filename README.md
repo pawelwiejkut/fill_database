@@ -12,6 +12,5 @@ APLHABET = ARRAY('a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p'
 Database schema is shown on image below:
 ![Image of schema](https://pawelwiejkut.net/pobierz/git_database_schemat.jpg)
 
-This is good database for testing HANA VS Oracle performance.
 
 
